@@ -1,5 +1,6 @@
 # 📚 Sistema de Notas con Interfaz Gráfica - Python + Tkinter
-
+>[!NOTE]
+>
 > Este proyecto es una aplicación de escritorio desarrollada en **Python** utilizando **Tkinter** para la interfaz gráfica y **archivos CSV** para el almacenamiento de datos. El sistema permite gestionar las notas de los estudiantes de manera eficiente y visual.
 
 ## 🎯 Funcionalidades
